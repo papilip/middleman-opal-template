@@ -19,13 +19,13 @@ $ git clone https://github.com/5t111111/middleman-opal-template.git opal
 ### Create middleman blog project
 
 ```console
-$ middleman init my_blog_project --template=opal
+$ middleman init my_project --template=opal
 ```
 
 ### Install gems
 
 ```console
-$ cd my_blog_project
+$ cd my_project
 $ bundle install
 ```
 
