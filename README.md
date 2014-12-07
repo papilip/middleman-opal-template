@@ -1,4 +1,4 @@
-# middleman-opal-template)
+# middleman-opal-template
 
 ## Installation
 
