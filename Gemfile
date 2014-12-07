@@ -17,8 +17,7 @@ gem 'slim', '~> 3.0.0'
 
 # Opal and opal-jquery
 gem 'opal'
-gem 'opal-jquery', :github => '5t111111/opal-jquery',
-                   :branch => 'add-methods'
+gem 'opal-jquery'
 
 # jQuery for opal-jquery
 gem 'rails-assets-jquery', '~> 2.1.1', :require => false
