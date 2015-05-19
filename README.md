@@ -11,8 +11,7 @@ $ gem install middleman
 ### Clone this template to your machine
 
 ```console
-$ mkdir ~/.middleman # if it doesn't exist
-$ cd ~/.middleman
+$ mkdir -p ~/.middleman && cd ~/.middleman
 $ git clone https://github.com/5t111111/middleman-opal-template.git opal
 ```
 
